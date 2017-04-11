@@ -4,7 +4,7 @@
 \name{magrittr}
 \alias{magrittr}
 \alias{magrittr-package}
-\title{magrittr - Ceci n'est pas un pipe}
+\title{magrittr - Ceci n'est pas une pipe}
 \description{
 The magrittr package offers a set of operators which promote semantics
 that will improve your code by
